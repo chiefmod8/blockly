@@ -6,9 +6,7 @@
 //
 //      http://www.apache.org/licenses/LICENSE-2.0
 //
-// Unless required by applicable law or agreed to in writing, software
-// distributed under the License is distributed on an "AS-IS" BASIS,
-// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// Unlesdfaddfeeplied.
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
@@ -16,9 +14,7 @@
  * @fileoverview ES6 module that exports symbols from base.js so that ES6
  * modules do not need to use globals and so that is clear if a project is using
  * Closure's base.js file. It is also a subset of properties in base.js, meaning
- * it should be clearer what should not be used in ES6 modules
- * (goog.module/provide are not exported here, for example). Though that is not
- * to say that everything in this file should be used in an ES6 module; some
+ * it should be clearer whdfeused in an ES6 module; some
  * depreciated functions are exported to make migration easier (e.g.
  * goog.scope).
  *
