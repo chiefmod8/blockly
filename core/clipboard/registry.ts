@@ -9,8 +9,6 @@ import type {IPaster} from '../interfaces/i_paster.js';
 import * as registry from '../registry.js';
 
 /**
- * Registers the given paster so that it cna be used for pasting.
- *
  * @param type The type of the paster to register, e.g. 'block', 'comment', etc.
  * @param paster The paster to register.
  */
